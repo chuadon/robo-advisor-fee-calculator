@@ -1,4 +1,4 @@
-# robo-advisor-fee-calc
+# robo-advisor-fee-calculator
 Robo-Advisor Fee Calculator for Singaporean Retail Investors
 
 Input your savings amount and the program will return you the respective p.a management fees for Robo-Advisors in Singapore.
